@@ -1,0 +1,9 @@
+/* Sets the legend width to auto expand to fit labels, but caps at 200px */
+.chart-legend > div {
+    width: auto !important;
+    max-width: 135px;
+}
+
+.chart-legend > div {
+    width: 135px !important;;
+}
